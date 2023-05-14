@@ -1,5 +1,5 @@
-# Pro Text Editor
-
+# Text Editor Pro!
+A Progressive Web App that fucntions as a text 
 
 
 ## User Story
@@ -42,6 +42,7 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Install
+To install the app navigate to the 
 
 ## Usage
 
